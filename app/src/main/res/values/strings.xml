@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Ticketplace Point de Vente</string>
+    <string name="welcome">Point de vente</string>
+    <string name="connect">Connectez-vous pour continuer</string>
+    <string name="password">Mot de passe</string>
+    <string name="connexion">Connexion</string>
+    <string name="add_to_cart">Ajouter</string>
+    <string name="ticket_number">Nombre de billet</string>
+    <string name="buy">ACHETER</string>
+    <string name="total_label">Total :</string>
+    <string name="checkout_informations">Informations sur la commande</string>
+    <string name="payment">Paiement</string>
+    <string name="name">Nom</string>
+    <string name="prenoms">Prénoms</string>
+    <string name="phone">Téléphone</string>
+    <string name="email">Email</string>
+    <string name="confirm_checkout">Confirmer la commande</string>
+    <string name="preprint_option">Option de pré-impression</string>
+    <string name="pre_printed_ticket">Billets pré-imprimés</string>
+    <string name="checkouts">Commandes</string>
+    <string name="checkout_number">Numéro de commande</string>
+    <string name="reservation_date">Date de réservation</string>
+    <string name="purchaser_name">Nom de l\'acheteur</string>
+    <string name="amount">Montant</string>
+    <string name="tickets">Billets</string>
+    <string name="section_label">Section : </string>
+    <string name="seat_label">Place : </string>
+    <string name="none_ble_device">No device found</string>
+    <string name="refresh">Analyser</string>
+    <string name="address_label">Adresse : </string>
+    <string name="phone_label">Téléphone : </string>
+    <string name="date_label">Date : </string>
+    <string name="place_label">Lieu : </string>
+</resources>
